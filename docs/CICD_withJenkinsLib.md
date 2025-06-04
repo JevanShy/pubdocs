@@ -9,7 +9,6 @@
 > 违反者将追究责任。  
 > 原文永久地址：[https://github.com/JevanShy/pubdocs/blob/main/docs/CICD_withJenkinsLib.md]
 
-> 本文记录了如何通过模块化设计优化Jenkins流水线，实现前端项目的自动化构建部署，并支持多语言项目复用流水线架构。
 
 ## 背景
 
