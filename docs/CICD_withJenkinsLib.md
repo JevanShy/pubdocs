@@ -7,7 +7,7 @@
 > 2. **禁止商业用途**（包括但不限于付费专栏、培训材料）  
 > 3. **禁止洗稿**（修改关键代码/截图后伪装原创）  
 > 违反者将追究责任。  
-> 原文永久地址：[https://github.com/JevanShy/pubdocs/blob/main/docs/CICD_withJenkinsLib.md]
+> 原文永久地址：[CICD_withJenkinsLib](https://github.com/JevanShy/pubdocs/blob/main/docs/CICD_withJenkinsLib.md)
 
 
 ## 背景
@@ -545,4 +545,4 @@ frontend_build_pipeline {
 3. **扩展性增强**：新增语言支持只需添加对应模块
 4. **标准化部署**：所有项目使用统一部署流程
 
-**经验总结**：模块化设计是持续集成系统的核心，它不仅解决了当前的前端部署需求，更为未来多语言项目支持奠定了坚实基础。
+**经验总结**：模块化设计是持续集成系统的核心，不仅解决了当前的前端部署需求，更为未来多语言项目支持奠定了坚实基础。
